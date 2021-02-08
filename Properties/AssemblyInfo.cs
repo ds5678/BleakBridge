@@ -33,6 +33,6 @@ using MelonLoader;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: MelonInfo(typeof(BleakBridge.Implementation), "BleakBridge", "1.0.0", "ds5678")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
+[assembly: MelonInfo(typeof(BleakBridge.Implementation), "BleakBridge", "1.1.0", "ds5678")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
